@@ -3,8 +3,5 @@ eye blink detection implementation based on pyimagesearch [post](https://www.pyi
 
 How to run:
 <pre><code>
-python3 eye_blink_detection.py
+python3 Eye_blink_video.py
 </code></pre>
-
-
-![alt text](https://github.com/mevo12318/eye_blink_detection/blob/master/results/blink.gif)
